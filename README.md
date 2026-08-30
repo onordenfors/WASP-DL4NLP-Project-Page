@@ -1,1 +1,1 @@
-This repo contains LLM generated code for the project part of the WASP course DL4NLP. The project idea was to use LLMs to formalize a known theorem. Please note that the file 
+This repo contains LLM generated code for the project part of the WASP course DL4NLP. The project idea was to use LLMs to formalize a known theorem. Please note that the file EqvAugDyn_modelsownsol.lean is incomplete and in fact does not compile in its current state. This is a result of the time constraint I set up for the project. It is intentionally left in this state.
