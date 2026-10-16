@@ -1,1 +1,3 @@
-This repo contains LLM generated code for the project part of the WASP course DL4NLP. The project idea was to use LLMs to formalize a known theorem. Please note that the file EqvAugDyn_modelsownsol.lean is incomplete and in fact does not compile in its current state. This is a result of the time constraint I set up for the project. It is intentionally left in this state. The file EqvAugDyn_with_invariance_proof_and_ensemble_proof_final_final.lean does compile and in fact proves the sought result.
+This repo contains LLM generated code for the project part of the WASP course DL4NLP. The project idea was to use LLMs to formalize a some known results.
+
+The code in this repo is the final state of the LLM code. Not all of it compiles.
